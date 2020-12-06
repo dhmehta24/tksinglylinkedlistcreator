@@ -15,3 +15,7 @@ The application generally consist of buttons, labels and canvas drawings. When A
 The data is a container which holds the data which is given by user input.
 The pointer which is connected to data container holds the address of that data which is stored into memory.
 When more than one nodes created, they are connected to each other by arrow which is generally  a pointer which is pointing to next node.
+
+# Screenshot
+
+![](Screenshot.png)
